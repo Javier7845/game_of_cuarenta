@@ -8,7 +8,6 @@ The game of "Cuarenta" is a traditional Ecuadorian game specifically from Quito.
 <p align="center">
   <img src="./assets/flowchart160.png" width="350" title="hover text">
 </p>
-![Alt text](./assets/flowchart160.png)
 ## How to run
 Linux/Ubuntu
 ```
