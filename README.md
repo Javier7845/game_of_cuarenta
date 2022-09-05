@@ -5,6 +5,6 @@ The traditional game of "Cuarenta" programmed in python.
 - Random
 # How to run
 Linux/Ubuntu
-'''
+```
 python3 Cuarenta.py
-'''
+```
