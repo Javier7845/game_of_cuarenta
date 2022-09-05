@@ -6,5 +6,5 @@ The traditional game of "Cuarenta" programmed in python.
 # How to run
 Linux/Ubuntu
 ```
-python3 Cuarenta.py
+$ python3 Cuarenta.py
 ```
