@@ -4,6 +4,8 @@ The game of "Cuarenta" is a traditional Ecuadorian game specifically from Quito.
 ## Used libraries
 - Collections
 - Random
+## Decision making based on rules of the Expert Agent
+![Alt text](./assets/flowchart.png)
 ## How to run
 Linux/Ubuntu
 ```
