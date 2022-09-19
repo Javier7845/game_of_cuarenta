@@ -15,5 +15,5 @@ The game of "Cuarenta" is a traditional Ecuadorian game specifically from Quito.
 ## How to run
 Linux/Ubuntu
 ```
-$ python3 Cuarenta.py
+$ python3 Cuarenta-Human_vs_EA.py
 ```
