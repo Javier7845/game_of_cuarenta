@@ -837,6 +837,3 @@ if scorep1>=40:
     print("Gano Player 1")
 else:
     print("Gano Player 2")
-
-
-# Bien terminar al agente experto y el reporte y como trabajo futuro la red neuronal
